@@ -1,4 +1,5 @@
 # clip
+## This project defines the creation of Clip in flutter
 
 A new Flutter project.
 
