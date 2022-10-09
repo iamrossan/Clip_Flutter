@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(MaterialApp(
-    home: Clip(),
+    home: Clip(), //runs the app from home panel
   ));
 }
 
